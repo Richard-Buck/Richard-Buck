@@ -1,5 +1,6 @@
-## Hi there 👋
+# About me
 
+### Will be added later!
 <!--
 **Richard-Buck/Richard-Buck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
